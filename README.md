@@ -4,6 +4,8 @@
 
 ![image](https://github.com/user-attachments/assets/f7b2e7e9-3b15-43af-b630-679eca02e108)
 
+### типо шутка про chatGPT
+
 ### вопросы:
 
 1) 00011111 + 00010011 = 00110010
